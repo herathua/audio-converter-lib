@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "avcodec.h": "c",
+        "avformat.h": "c",
+        "opt.h": "c",
+        "stdio.h": "c",
+        "avutil.h": "c",
+        "log.h": "c",
+        "channel_layout.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe"
+}
